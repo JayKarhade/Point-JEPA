@@ -1,0 +1,7 @@
+# ninja log v5
+0	10502	1696772243032922728	/home/jay/Point-MAE/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	7b51f94e854196c3
+0	18589	1696772251121051921	/home/jay/Point-MAE/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer.o	7d0396f6febf9be5
+2	9653	1696861864422137103	/home/jay/Point-MAE/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	9a0345fe0b2eaabf
+2	16357	1696861871130236198	/home/jay/Point-MAE/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer.o	b013148577f05904
+1	9225	1696862476315365481	/home/jay/Point-MAE/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	9a0345fe0b2eaabf
+1	15091	1696862482183454855	/home/jay/Point-MAE/extensions/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer.o	12d8c5dd18f8fb0
